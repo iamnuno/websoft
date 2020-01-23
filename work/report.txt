@@ -1,0 +1,17 @@
+A01 
+
+- Did you before know about the techniques Git, GitHub, Markdown and/or GitHub Pages?
+
+ I have used Git and Git and Github previously in other courses. I've heard of both Markdown and Github Pages and read about them but never used them.
+
+ - Have you ever created websites before?
+
+ Yes but simple ones. I created basic websites on my own using HTML and CSS.
+
+ - Briefly explain your experience and knowledge of web application development.
+
+ As I mentioned before I have some knowledge of HTML and CSS. For backend I have played around with Node.js and Spring Boot but never worked on any project, just my own leisure. For the Mobile Development course project I used PHP and MySQL. In Software Engineering II, I worked with Java servlets and XML parsing.
+
+ - What is your TIL for this course section?
+
+Today I learned how to use Github Pages, fork a Gihub repo and keep it updated.
