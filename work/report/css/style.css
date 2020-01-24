@@ -1,12 +1,26 @@
-/*
- * Comments are written as C++ style. 
- */
 html {
     overflow-y: scroll;
+    text-align: center;
 }
 
 body {
     margin: 8px auto;
-    background: #fff;
-    width: 700px;
+    width: 80%;
+    background-color: rgba(74, 189, 172, 0.3);
+}
+
+.profile_img {
+    width: 200px;
+    border-radius: 50%;
+    transition: all 1s ease-in-out 0s;
+}
+
+.profile_img:hover {
+    cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.5s ease-in-out 0s;
+}
+
+.me_info {
+    text-align: left;
 }
