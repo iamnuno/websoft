@@ -18,6 +18,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-shrink: 0;
 }
 
 nav * {
@@ -51,11 +52,21 @@ nav li a:hover {
 
 article {
     color: white;
-    width: 70%;
-    margin: auto;
-    text-align: left;
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    flex: 1 0 auto;
+}
+
+.me_article h1 {
+    margin-bottom: 100px;
+}
+
+.report_article h1 {
+    margin-bottom: 50px;
 }
 
 footer {
     background-color: white;
+    flex-shrink: 0;
 }
