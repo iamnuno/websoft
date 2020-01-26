@@ -14,4 +14,4 @@ A01
 
  - What is your TIL for this course section?
 
-Today I learned how to use Github Pages, fork a Gihub repo and keep it updated.
+Today I learned how to use Github Pages, fork a Github repo and keep it updated.
