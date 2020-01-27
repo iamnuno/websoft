@@ -121,3 +121,10 @@ footer a {
 footer img {
   width: 22px;
 }
+
+.duck {
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  width: 58px;
+}
