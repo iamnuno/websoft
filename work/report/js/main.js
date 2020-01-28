@@ -2,9 +2,11 @@
 * A function to wrap it all in.
 */
 (function () {
-  "use strict";
+  'use strict';
 
   duck();
+  schools();
+
 }());
 
 function duck() {
@@ -39,4 +41,19 @@ function toggleVisibilityTimer(element) {
 function get_xPosition(element) {
   const rect = element.getBoundingClientRect();
   return rect.left + window.scrollX;
+}
+
+function schools() {
+  fetch('data/1290.json')
+  .then((response) => {
+    return response.json();
+  })
+  .then((myJson) => {
+    var schools = myJson.Skolenheter;
+    var table  = '<tr><th>Kommunkod</th><th>PeOrgNr</th><th>Skolenhetskod</th><th>Skolenhetsnamn</th></tr>';
+    for (var i = 0; i < schools.length; i++) {
+      table += "<tr><td>" + schools[i].Kommunkod + "</td><td>" + schools[i].PeOrgNr + "</td><td>" + schools[i].Skolenhetskod + "</td><td>" + schools[i].Skolenhetsnamn + '</td></tr>';
+    }
+    document.getElementById('table').innerHTML = table;
+  });
 }
