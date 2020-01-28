@@ -5,8 +5,7 @@
   'use strict';
 
   duck();
-  schools();
-
+  
 }());
 
 function duck() {
@@ -44,6 +43,11 @@ function get_xPosition(element) {
 }
 
 function schools() {
+
+}
+
+function buttonOnClick() {
+  console.log("Button clicked.");
   fetch('data/1290.json')
   .then((response) => {
     return response.json();
