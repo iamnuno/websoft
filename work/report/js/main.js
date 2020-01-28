@@ -5,21 +5,23 @@
     "use strict";
 
     console.log("Duck start...");
-    var element = document.getElementById("duck");
 
-    element.addEventListener("click", function () {
+    var body = document.getElementById("body");
+    var duck = document.getElementById("duck");
+
+    duck.addEventListener("click", function () {
         console.log("Duck clicked.");
-        var left = getPosition(element).left;
-        if (left + element.width + (element.width / 2) < window.innerWidth) {
-          element.style.left = element.offsetLeft + 150 +'px';
+        var duck_xPos = get_xPosition(duck);
+        var duck_width = duck.offsetWidth;
+        var body_width = body.offsetWidth;
+        var moveRightPx = 15;
+        if (duck_xPos + duck_width + moveRightPx < body_width) {
+          duck.style.left = duck.offsetLeft + moveRightPx +'px';
         }
     });
 }());
 
-function getPosition(element) {
+function get_xPosition(element) {
   const rect = element.getBoundingClientRect();
-  return {
-    left: rect.left + window.scrollX,
-    top: rect.top + window.scrollY
-  };
+  return rect.left + window.scrollX;
 }
