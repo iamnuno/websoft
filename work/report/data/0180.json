@@ -1,0 +1,3324 @@
+{
+    "Uttagsdatum": "2020-01-29T18:00:16.7705126+01:00",
+    "Fotnot": "",
+    "Skolenheter": [
+        {
+            "Skolenhetskod": "10230535",
+            "Skolenhetsnamn": "Vällingby Park",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560354309"
+        },
+        {
+            "Skolenhetskod": "10311303",
+            "Skolenhetsnamn": "Lilla Kulturama",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020060524"
+        },
+        {
+            "Skolenhetskod": "10360193",
+            "Skolenhetsnamn": "Profilskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569247264"
+        },
+        {
+            "Skolenhetskod": "10682125",
+            "Skolenhetsnamn": "Magitaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567342919"
+        },
+        {
+            "Skolenhetskod": "11018018",
+            "Skolenhetsnamn": "Pops Academy",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569583197"
+        },
+        {
+            "Skolenhetskod": "11442396",
+            "Skolenhetsnamn": "Stockholm International Academy Hägersten",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568571748"
+        },
+        {
+            "Skolenhetskod": "11532790",
+            "Skolenhetsnamn": "Elma School",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566531421"
+        },
+        {
+            "Skolenhetskod": "11646900",
+            "Skolenhetsnamn": "Thorildsplans gymnasium 11646900",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "12187987",
+            "Skolenhetsnamn": "Katarina Södra skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "12377376",
+            "Skolenhetsnamn": "Magelungens grundskola Svedmyra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564891447"
+        },
+        {
+            "Skolenhetskod": "12598866",
+            "Skolenhetsnamn": "Central Insamlingsenhet Enskild verksamhet ",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "12745593",
+            "Skolenhetsnamn": "Kärrtorps gymnasium 12745593",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "13124830",
+            "Skolenhetsnamn": "Sjöängsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "13301127",
+            "Skolenhetsnamn": "Ekens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "13582062",
+            "Skolenhetsnamn": "Järvaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569572315"
+        },
+        {
+            "Skolenhetskod": "13603227",
+            "Skolenhetsnamn": "Hermods AB SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "13679897",
+            "Skolenhetsnamn": "Bagarmossens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "13735206",
+            "Skolenhetsnamn": "Midsommarkransens Gymnasium, Uppdragsutb.",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "13954336",
+            "Skolenhetsnamn": "Lilla Martinskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020072644"
+        },
+        {
+            "Skolenhetskod": "14115670",
+            "Skolenhetsnamn": "Friskolan Hästens",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565858536"
+        },
+        {
+            "Skolenhetskod": "14117781",
+            "Skolenhetsnamn": "Olympen Långbropark",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564187309"
+        },
+        {
+            "Skolenhetskod": "14121892",
+            "Skolenhetsnamn": "Bredängsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "14237886",
+            "Skolenhetsnamn": "Thoren Business School Stockholm 2",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566139290"
+        },
+        {
+            "Skolenhetskod": "14472068",
+            "Skolenhetsnamn": "Kristna skolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020033687"
+        },
+        {
+            "Skolenhetskod": "14479858",
+            "Skolenhetsnamn": "Tallkrogens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "14926020",
+            "Skolenhetsnamn": "Framtidsgymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564781606"
+        },
+        {
+            "Skolenhetskod": "14945659",
+            "Skolenhetsnamn": "Almaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569224610"
+        },
+        {
+            "Skolenhetskod": "14961641",
+            "Skolenhetsnamn": "Sthlm Transp&Fordon Lindvreten",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "15171331",
+            "Skolenhetsnamn": "Nordic International School, Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566102033"
+        },
+        {
+            "Skolenhetskod": "15278518",
+            "Skolenhetsnamn": "NTI Handelsgymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5561203679"
+        },
+        {
+            "Skolenhetskod": "15331669",
+            "Skolenhetsnamn": "Sjöstadsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "15390992",
+            "Skolenhetsnamn": "NTI Gymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5561203679"
+        },
+        {
+            "Skolenhetskod": "15594566",
+            "Skolenhetsnamn": "Äppelviksskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "15968847",
+            "Skolenhetsnamn": "Olaus Petriskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "15995606",
+            "Skolenhetsnamn": "Särvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "16061350",
+            "Skolenhetsnamn": "Beta School",
+            "Kommunkod": "0180",
+            "PeOrgNr": "9697195593"
+        },
+        {
+            "Skolenhetskod": "16337532",
+            "Skolenhetsnamn": "Svedenskolan Mälarhöjden",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564715729"
+        },
+        {
+            "Skolenhetskod": "16348406",
+            "Skolenhetsnamn": "Matteusskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "16394249",
+            "Skolenhetsnamn": "Ellen Key skolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8152007970"
+        },
+        {
+            "Skolenhetskod": "16426165",
+            "Skolenhetsnamn": "Kunskapsskolan Enskede",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "16501673",
+            "Skolenhetsnamn": "Yrkesgymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566139290"
+        },
+        {
+            "Skolenhetskod": "16631623",
+            "Skolenhetsnamn": "Amerikanska Gymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5590415591"
+        },
+        {
+            "Skolenhetskod": "16784385",
+            "Skolenhetsnamn": "Påhlmans gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565684965"
+        },
+        {
+            "Skolenhetskod": "17165481",
+            "Skolenhetsnamn": "Brotorpsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "17202193",
+            "Skolenhetsnamn": "Utbildningsborgen AB/SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "17526606",
+            "Skolenhetsnamn": "Akademiska Skolan i Kista",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569171936"
+        },
+        {
+            "Skolenhetskod": "17585940",
+            "Skolenhetsnamn": "Hermods Gymnasium Norra Bantorget",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560440017"
+        },
+        {
+            "Skolenhetskod": "17640364",
+            "Skolenhetsnamn": "Spånga grundskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "17644819",
+            "Skolenhetsnamn": "Olympen Svea",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564187309"
+        },
+        {
+            "Skolenhetskod": "17675502",
+            "Skolenhetsnamn": "Midsommarkransens gy 17675502",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "17911161",
+            "Skolenhetsnamn": "KLARA Teoretiska Gymnasium Stockholm Östra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565286696"
+        },
+        {
+            "Skolenhetskod": "18064456",
+            "Skolenhetsnamn": "Söderholmsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "18451445",
+            "Skolenhetsnamn": "Teknik & Service Gymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568879018"
+        },
+        {
+            "Skolenhetskod": "19266756",
+            "Skolenhetsnamn": "Hällsboskolan Kungsholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2021005745"
+        },
+        {
+            "Skolenhetskod": "19353396",
+            "Skolenhetsnamn": "Fruängens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "19377571",
+            "Skolenhetsnamn": "Karlbergs skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "19454941",
+            "Skolenhetsnamn": "Fryshusets gysär",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020111582"
+        },
+        {
+            "Skolenhetskod": "19657993",
+            "Skolenhetsnamn": "Fryshusets grundskola, Sthlm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020111582"
+        },
+        {
+            "Skolenhetskod": "19692142",
+            "Skolenhetsnamn": "Alea Kompetenshöjning AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569785842"
+        },
+        {
+            "Skolenhetskod": "19708655",
+            "Skolenhetsnamn": "VB Gymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567322168"
+        },
+        {
+            "Skolenhetskod": "19942197",
+            "Skolenhetsnamn": "Sandåkraskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "20061769",
+            "Skolenhetsnamn": "Sjömansskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565662409"
+        },
+        {
+            "Skolenhetskod": "20561651",
+            "Skolenhetsnamn": "Herrängens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "20683111",
+            "Skolenhetsnamn": "Bäckahagens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "21294408",
+            "Skolenhetsnamn": "Omsorgslyftets utbildn./SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "21312503",
+            "Skolenhetsnamn": "Elektrikergymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566814801"
+        },
+        {
+            "Skolenhetskod": "21724208",
+            "Skolenhetsnamn": "Sätraskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "22030561",
+            "Skolenhetsnamn": "Östbergaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "22084183",
+            "Skolenhetsnamn": "Kärrtorps gymnasium 22084183",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "22116645",
+            "Skolenhetsnamn": "Östra Reals gymnasium 22116645",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "22129749",
+            "Skolenhetsnamn": "Viktor Rydberg komvux, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8120005650"
+        },
+        {
+            "Skolenhetskod": "22174435",
+            "Skolenhetsnamn": "Björnbodaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "22513261",
+            "Skolenhetsnamn": "Kista grundskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "22722855",
+            "Skolenhetsnamn": "Sthlm hotell & restaurangsk 1 komvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "22742420",
+            "Skolenhetsnamn": "Sthlms intensivsv f akadem",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "22777703",
+            "Skolenhetsnamn": "Johannes skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "23066257",
+            "Skolenhetsnamn": "Kulturama gr. Hammarby Sjöstad",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020060524"
+        },
+        {
+            "Skolenhetskod": "23202611",
+            "Skolenhetsnamn": "Umma Grundsärskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566996533"
+        },
+        {
+            "Skolenhetskod": "23256651",
+            "Skolenhetsnamn": "LIndeparkens gymnasiesärskola 23256651",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "23270781",
+            "Skolenhetsnamn": "Säkerhetsgymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567551386"
+        },
+        {
+            "Skolenhetskod": "23414344",
+            "Skolenhetsnamn": "Skolgrunden",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565588166"
+        },
+        {
+            "Skolenhetskod": "23498302",
+            "Skolenhetsnamn": "Stockholms Montessoriskola Anne Frank",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564609666"
+        },
+        {
+            "Skolenhetskod": "23617768",
+            "Skolenhetsnamn": "Katarina Norra skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "23618510",
+            "Skolenhetsnamn": "Nytorpsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "23621273",
+            "Skolenhetsnamn": "Primaskolan Vällingby",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565570958"
+        },
+        {
+            "Skolenhetskod": "23987883",
+            "Skolenhetsnamn": "VB Skolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567322168"
+        },
+        {
+            "Skolenhetskod": "23990835",
+            "Skolenhetsnamn": "Vinstagårdsskolan gymnasiesär",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "24046791",
+            "Skolenhetsnamn": "Farstaängsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560354309"
+        },
+        {
+            "Skolenhetskod": "24147242",
+            "Skolenhetsnamn": "Magelungens gymnasium Södermalm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564891447"
+        },
+        {
+            "Skolenhetskod": "24172067",
+            "Skolenhetsnamn": "Kulturskolan Raketen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565484796"
+        },
+        {
+            "Skolenhetskod": "24339566",
+            "Skolenhetsnamn": "Sjölins gymnasium Södermalm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5563758399"
+        },
+        {
+            "Skolenhetskod": "24397215",
+            "Skolenhetsnamn": "Sthlm hotell & restaurangsk 24397215",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "24650116",
+            "Skolenhetsnamn": "P A Fogelströms gymnasium 24650116",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "24663703",
+            "Skolenhetsnamn": "S:t Eriks gymnasium 24663703",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "24671487",
+            "Skolenhetsnamn": "Kunskapsskolans Resursskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "24716263",
+            "Skolenhetsnamn": "Hvilan Gymnasium Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566066980"
+        },
+        {
+            "Skolenhetskod": "24716970",
+            "Skolenhetsnamn": "Högalidsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "24754913",
+            "Skolenhetsnamn": "Knutbyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "24759907",
+            "Skolenhetsnamn": "Stiftelsen KFUM Söder Fryshuset, Fryshusets Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020111582"
+        },
+        {
+            "Skolenhetskod": "24839129",
+            "Skolenhetsnamn": "Brännkyrka gymnasium 1",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "24872483",
+            "Skolenhetsnamn": "Vasa Byskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565042255"
+        },
+        {
+            "Skolenhetskod": "25074310",
+            "Skolenhetsnamn": "Sofiaängens skola gy",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565980942"
+        },
+        {
+            "Skolenhetskod": "25525759",
+            "Skolenhetsnamn": "International School of the Stockholm Region 25525759",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "25555358",
+            "Skolenhetsnamn": "Eiraskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "25781314",
+            "Skolenhetsnamn": "Svensk Vård & Kompetensutveckling i Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567233431"
+        },
+        {
+            "Skolenhetskod": "26172429",
+            "Skolenhetsnamn": "International School of the Stockholm Region",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "26298615",
+            "Skolenhetsnamn": "Yrkesplugget",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566753736"
+        },
+        {
+            "Skolenhetskod": "26326048",
+            "Skolenhetsnamn": "Kunskapsgymnasiet Globen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "26568390",
+            "Skolenhetsnamn": "Primaskolan Farsta",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565570958"
+        },
+        {
+            "Skolenhetskod": "26852132",
+            "Skolenhetsnamn": "Solhemsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "27023528",
+            "Skolenhetsnamn": "Designgymnasiet Kungsholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569320681"
+        },
+        {
+            "Skolenhetskod": "27273328",
+            "Skolenhetsnamn": "Årstadalsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "27317689",
+            "Skolenhetsnamn": "WorkIQ AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569784696"
+        },
+        {
+            "Skolenhetskod": "27357778",
+            "Skolenhetsnamn": "Oxhagsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "28138418",
+            "Skolenhetsnamn": "Vintertullsskolan i Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565541215"
+        },
+        {
+            "Skolenhetskod": "28184857",
+            "Skolenhetsnamn": "Lundaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564840238"
+        },
+        {
+            "Skolenhetskod": "28496932",
+            "Skolenhetsnamn": "Sthlm hotell & restaurangsk, komvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "28519815",
+            "Skolenhetsnamn": "S:t Eriks gymnasium 28519815",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "28766622",
+            "Skolenhetsnamn": "Farsta gymnasium 28766622",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "28778917",
+            "Skolenhetsnamn": "Vittra Sjöstaden",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564586716"
+        },
+        {
+            "Skolenhetskod": "29096335",
+            "Skolenhetsnamn": "Bergsundsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564666609"
+        },
+        {
+            "Skolenhetskod": "29158808",
+            "Skolenhetsnamn": "Observatorielundens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "29270748",
+            "Skolenhetsnamn": "Vanadisskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569990160"
+        },
+        {
+            "Skolenhetskod": "29371242",
+            "Skolenhetsnamn": "Campus Manilla",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568834765"
+        },
+        {
+            "Skolenhetskod": "29410344",
+            "Skolenhetsnamn": "Kungsholmens grundskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "29423248",
+            "Skolenhetsnamn": "Globala gymnasiet 29423248",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "29585072",
+            "Skolenhetsnamn": "Enskede byskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565042255"
+        },
+        {
+            "Skolenhetskod": "29705473",
+            "Skolenhetsnamn": "Snösätraskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "29725531",
+            "Skolenhetsnamn": "Engelska Skolan Norr",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565699302"
+        },
+        {
+            "Skolenhetskod": "29796042",
+            "Skolenhetsnamn": "Tornadoskolan AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567620223"
+        },
+        {
+            "Skolenhetskod": "29942638",
+            "Skolenhetsnamn": "Almaskolan Syd",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569224610"
+        },
+        {
+            "Skolenhetskod": "30312720",
+            "Skolenhetsnamn": "Thorildsplans gymnasium 30312720",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "30443496",
+            "Skolenhetsnamn": "Hermods AB komvux, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560440017"
+        },
+        {
+            "Skolenhetskod": "30677562",
+            "Skolenhetsnamn": "Sthlm hotell & restaurangsk 30677562",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "30762346",
+            "Skolenhetsnamn": "Nordiska Musikgymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565851507"
+        },
+        {
+            "Skolenhetskod": "31313926",
+            "Skolenhetsnamn": "Thoren Innovation School Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568902653"
+        },
+        {
+            "Skolenhetskod": "31315191",
+            "Skolenhetsnamn": "Stockholms Idrottsgymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567379226"
+        },
+        {
+            "Skolenhetskod": "31492531",
+            "Skolenhetsnamn": "Brännkyrka gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "31849871",
+            "Skolenhetsnamn": "Kista gymnasium/komvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "31903219",
+            "Skolenhetsnamn": "Magelungsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "31998226",
+            "Skolenhetsnamn": "Praktiska Gymnasiet Stockholm Bromma",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5562575786"
+        },
+        {
+            "Skolenhetskod": "32116280",
+            "Skolenhetsnamn": "Thorildsplans gymnasium 32116280",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "33132452",
+            "Skolenhetsnamn": "Grillska Gymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020170794"
+        },
+        {
+            "Skolenhetskod": "33217202",
+            "Skolenhetsnamn": "Vinstaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "33233228",
+            "Skolenhetsnamn": "Carlgrenska Waldorfgymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024530647"
+        },
+        {
+            "Skolenhetskod": "33483759",
+            "Skolenhetsnamn": "Olympen Telefonplan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564187309"
+        },
+        {
+            "Skolenhetskod": "33733966",
+            "Skolenhetsnamn": "Vasa International School of Stockholm/International section",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567025696"
+        },
+        {
+            "Skolenhetskod": "33851481",
+            "Skolenhetsnamn": "Lernia Utbildning AB, Komvux, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564673381"
+        },
+        {
+            "Skolenhetskod": "33922950",
+            "Skolenhetsnamn": "Smedslättsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "33992512",
+            "Skolenhetsnamn": "Midsommarkransens gys",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "34047582",
+            "Skolenhetsnamn": "Österholmskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "34068547",
+            "Skolenhetsnamn": "Spånga gymnasium 91792285, sär",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "34206153",
+            "Skolenhetsnamn": "MKFC Sthlms folkhögskola SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "7164217684"
+        },
+        {
+            "Skolenhetskod": "34540901",
+            "Skolenhetsnamn": "Estniska Skolan i Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020058908"
+        },
+        {
+            "Skolenhetskod": "34671128",
+            "Skolenhetsnamn": "Solbergaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "34880783",
+            "Skolenhetsnamn": "Mosebackeskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565833562"
+        },
+        {
+            "Skolenhetskod": "35084976",
+            "Skolenhetsnamn": "International IT College of Sweden Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5563114445"
+        },
+        {
+            "Skolenhetskod": "35129114",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Årsta",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "35366805",
+            "Skolenhetsnamn": "Stockholms Estetiska Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "7696029995"
+        },
+        {
+            "Skolenhetskod": "35541921",
+            "Skolenhetsnamn": "Enskede Gårds gymnasium 35541921",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "35547286",
+            "Skolenhetsnamn": "Carlssons skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020058270"
+        },
+        {
+            "Skolenhetskod": "35637802",
+            "Skolenhetsnamn": "Norra Djurgårdsgymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567611347"
+        },
+        {
+            "Skolenhetskod": "35779467",
+            "Skolenhetsnamn": "Roslagstullsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "35784391",
+            "Skolenhetsnamn": "Distra IRS",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565833562"
+        },
+        {
+            "Skolenhetskod": "35890890",
+            "Skolenhetsnamn": "Västerholms friskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565672812"
+        },
+        {
+            "Skolenhetskod": "36031993",
+            "Skolenhetsnamn": "Vällingbyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "36066067",
+            "Skolenhetsnamn": "Musikskolan Lilla Akademien",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565510756"
+        },
+        {
+            "Skolenhetskod": "36232577",
+            "Skolenhetsnamn": "Bromma Enskilda Skola ek.fören.",
+            "Kommunkod": "0180",
+            "PeOrgNr": "7696001366"
+        },
+        {
+            "Skolenhetskod": "36281817",
+            "Skolenhetsnamn": "Höglandsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "36288955",
+            "Skolenhetsnamn": "Kungsh gy/Sthlms Musikgy 36288955",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "36520624",
+            "Skolenhetsnamn": "Nybohovsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "36723793",
+            "Skolenhetsnamn": "Utbildningsborgen i Örebro AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564421328"
+        },
+        {
+            "Skolenhetskod": "36738550",
+            "Skolenhetsnamn": "Vuxenutbildning Järva",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "36789542",
+            "Skolenhetsnamn": "Bromma Folkhögskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024127048"
+        },
+        {
+            "Skolenhetskod": "37416253",
+            "Skolenhetsnamn": "Rinkebyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "37489720",
+            "Skolenhetsnamn": "InfoKompetens i Sverige AB, Komvux, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564654605"
+        },
+        {
+            "Skolenhetskod": "37556682",
+            "Skolenhetsnamn": "Kista International School",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024097555"
+        },
+        {
+            "Skolenhetskod": "37796564",
+            "Skolenhetsnamn": "Akalla grundskola F-9",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "37802196",
+            "Skolenhetsnamn": "Kulturama Gymnasium Natur",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565684965"
+        },
+        {
+            "Skolenhetskod": "37839488",
+            "Skolenhetsnamn": "Kärrtorps gymnasium 37839488",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "38096510",
+            "Skolenhetsnamn": "Magelungens grundskola Älvsjö",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564891447"
+        },
+        {
+            "Skolenhetskod": "38195284",
+            "Skolenhetsnamn": "JENSEN Gymnasium Norra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566358759"
+        },
+        {
+            "Skolenhetskod": "38236800",
+            "Skolenhetsnamn": "Praktiska Gymnasiet Stockholm Liljeholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5562575786"
+        },
+        {
+            "Skolenhetskod": "38683336",
+            "Skolenhetsnamn": "Kungl. Svenska Balettskolan gy 38683336",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "38758770",
+            "Skolenhetsnamn": "Farsta grundskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "38919078",
+            "Skolenhetsnamn": "Thorildsplans gymnasium 38919078, ferieundervisning",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "38935587",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Enskede ",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "39129499",
+            "Skolenhetsnamn": "Stiftelsen KFUM Söder Fryshuset, Fryshusets Handelsgymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020111582"
+        },
+        {
+            "Skolenhetskod": "39171821",
+            "Skolenhetsnamn": "Örbyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "39789569",
+            "Skolenhetsnamn": "ESS-gymnasiet 2, grund",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "39923451",
+            "Skolenhetsnamn": "Sverigefinska skolan i Kista",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024007380"
+        },
+        {
+            "Skolenhetskod": "40206772",
+            "Skolenhetsnamn": "ABF Stockholm  SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020057405"
+        },
+        {
+            "Skolenhetskod": "40383398",
+            "Skolenhetsnamn": "Bromma kyrkskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "40591830",
+            "Skolenhetsnamn": "Språkcentrum",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "40600798",
+            "Skolenhetsnamn": "Bromma gymnasium 40600798",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "40610606",
+            "Skolenhetsnamn": "Lycée Francais Saint Louis, gr",
+            "Kommunkod": "0180",
+            "PeOrgNr": "9020041852"
+        },
+        {
+            "Skolenhetskod": "40971064",
+            "Skolenhetsnamn": "Manillaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2021005745"
+        },
+        {
+            "Skolenhetskod": "40978257",
+            "Skolenhetsnamn": "Futuraskolan International School of Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566095047"
+        },
+        {
+            "Skolenhetskod": "41155478",
+            "Skolenhetsnamn": "Thoren Framtid Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566139290"
+        },
+        {
+            "Skolenhetskod": "41176931",
+            "Skolenhetsnamn": "Gärdesskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "41285467",
+            "Skolenhetsnamn": "Adolfsbergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "41303400",
+            "Skolenhetsnamn": "Ekholmsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "41405700",
+            "Skolenhetsnamn": "Storkyrkoskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "41535558",
+            "Skolenhetsnamn": "Nackademins Näringslivsgymnasium Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566166475"
+        },
+        {
+            "Skolenhetskod": "41631104",
+            "Skolenhetsnamn": "Stockholms byggtekniska gymnasium 41631104",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "41764666",
+            "Skolenhetsnamn": "Långbrodalsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "41938272",
+            "Skolenhetsnamn": "Franska Skolan/Ecole francaise Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020061530"
+        },
+        {
+            "Skolenhetskod": "42149666",
+            "Skolenhetsnamn": "Husbygårdsskolan F-9",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "42179975",
+            "Skolenhetsnamn": "Farsta Strandsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564868155"
+        },
+        {
+            "Skolenhetskod": "42202683",
+            "Skolenhetsnamn": "Kungsholmens friskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "7164221421"
+        },
+        {
+            "Skolenhetskod": "42328518",
+            "Skolenhetsnamn": "Franska Skolan/Ecole francaise",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020061530"
+        },
+        {
+            "Skolenhetskod": "42775003",
+            "Skolenhetsnamn": "Södra Latins gymnasium 42775003",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "42912378",
+            "Skolenhetsnamn": "Vinsta grundskola östra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "42985608",
+            "Skolenhetsnamn": "Tensta gymnasium 42985608",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "43088454",
+            "Skolenhetsnamn": "Björkhagens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "43134105",
+            "Skolenhetsnamn": "Cordoba International School",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566344270"
+        },
+        {
+            "Skolenhetskod": "43166282",
+            "Skolenhetsnamn": "Nälstaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "43367445",
+            "Skolenhetsnamn": "Gullvivaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567538383"
+        },
+        {
+            "Skolenhetskod": "43557701",
+            "Skolenhetsnamn": "Medborgarskolan komvux, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020060524"
+        },
+        {
+            "Skolenhetskod": "43565270",
+            "Skolenhetsnamn": "Tibble Gymnasium Campus Kista",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567799035"
+        },
+        {
+            "Skolenhetskod": "43632318",
+            "Skolenhetsnamn": "Enbacksskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "43813026",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "44046131",
+            "Skolenhetsnamn": "Sundbyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "44185751",
+            "Skolenhetsnamn": "Gröndalsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "44355680",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Spånga",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "44673074",
+            "Skolenhetsnamn": "Abrahamsbergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "44960412",
+            "Skolenhetsnamn": "Rekryteringsprogrammet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "45364437",
+            "Skolenhetsnamn": "Bandhagens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "45385886",
+            "Skolenhetsnamn": "Hantverksakademin",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566998208"
+        },
+        {
+            "Skolenhetskod": "45436515",
+            "Skolenhetsnamn": "Sofia skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "45553352",
+            "Skolenhetsnamn": "Sthlms Int. Montessoriskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567640205"
+        },
+        {
+            "Skolenhetskod": "45722216",
+            "Skolenhetsnamn": "Kungsh gy/Sthlms Mugy V Kvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "45992574",
+            "Skolenhetsnamn": "S:t Eriks gymnasium 45992574, sär",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "46165232",
+            "Skolenhetsnamn": "Mälarhöjdens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "46256929",
+            "Skolenhetsnamn": "LBS Kreativa Gymnasiet Stockholm Södra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564851649"
+        },
+        {
+            "Skolenhetskod": "46282895",
+            "Skolenhetsnamn": "Profilgymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5562869320"
+        },
+        {
+            "Skolenhetskod": "46405935",
+            "Skolenhetsnamn": "JENSEN grundskola Stockholm 3",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566358759"
+        },
+        {
+            "Skolenhetskod": "46581319",
+            "Skolenhetsnamn": "Lillholmsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "46616391",
+            "Skolenhetsnamn": "Beckombergaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "46646143",
+            "Skolenhetsnamn": "Jorielskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560354309"
+        },
+        {
+            "Skolenhetskod": "46796995",
+            "Skolenhetsnamn": "Kunskapsskolan Spånga",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "47203468",
+            "Skolenhetsnamn": "Skeppsholmens folkhögskola SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024680319"
+        },
+        {
+            "Skolenhetskod": "47273038",
+            "Skolenhetsnamn": "Klastorpsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "47737973",
+            "Skolenhetsnamn": "NTI-skolan AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567098057"
+        },
+        {
+            "Skolenhetskod": "47979659",
+            "Skolenhetsnamn": "Backluraskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "47983862",
+            "Skolenhetsnamn": "Stockholms byggtekniska gymnasium 47983862, sär",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "48031391",
+            "Skolenhetsnamn": "Åsö vuxengymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "48120273",
+            "Skolenhetsnamn": "Campus Manilla Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568834765"
+        },
+        {
+            "Skolenhetskod": "48328583",
+            "Skolenhetsnamn": "Årstaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "48335202",
+            "Skolenhetsnamn": "Lärgården Utbildning AB komvux, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565198768"
+        },
+        {
+            "Skolenhetskod": "48412612",
+            "Skolenhetsnamn": "Kungsholmens Västra Gymnasium 48412612",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "48555205",
+            "Skolenhetsnamn": "Thoren Business School Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566139290"
+        },
+        {
+            "Skolenhetskod": "48815893",
+            "Skolenhetsnamn": "Kungsholmens gymnasium 74812809",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "48933946",
+            "Skolenhetsnamn": "SFI Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "49068301",
+            "Skolenhetsnamn": "Internationella Kunskapsgymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "49109752",
+            "Skolenhetsnamn": "Marcusskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564870771"
+        },
+        {
+            "Skolenhetskod": "49419007",
+            "Skolenhetsnamn": "Liljanskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566189097"
+        },
+        {
+            "Skolenhetskod": "49533653",
+            "Skolenhetsnamn": "Årsta Gårds grundsärskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020177427"
+        },
+        {
+            "Skolenhetskod": "49594616",
+            "Skolenhetsnamn": "Kunskapsskolan Gröndal",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "49741755",
+            "Skolenhetsnamn": "Lugnets skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "49862579",
+            "Skolenhetsnamn": "Fagersjöskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "50060022",
+            "Skolenhetsnamn": "Smedshagsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "50379076",
+            "Skolenhetsnamn": "S:t Eriks gy/ Scengy 50379076",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "50644850",
+            "Skolenhetsnamn": "NTI Vetenskapsgymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5561203679"
+        },
+        {
+            "Skolenhetskod": "50848996",
+            "Skolenhetsnamn": "Raoul Wallenbergskolan Bromma",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566740113"
+        },
+        {
+            "Skolenhetskod": "50883579",
+            "Skolenhetsnamn": "Ellen Key skolan, gy",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8152007970"
+        },
+        {
+            "Skolenhetskod": "51045342",
+            "Skolenhetsnamn": "Enskede Gårds gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "51341279",
+            "Skolenhetsnamn": "Grimstaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "51684798",
+            "Skolenhetsnamn": "Tensta gymnasium 51684798",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "51705325",
+            "Skolenhetsnamn": "InfoKomp SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "51772207",
+            "Skolenhetsnamn": "Hamnskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560354309"
+        },
+        {
+            "Skolenhetskod": "52153758",
+            "Skolenhetsnamn": "Viktor Rydberg gy. Odenplan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8120005650"
+        },
+        {
+            "Skolenhetskod": "52333875",
+            "Skolenhetsnamn": "Spånga Gymnasium 52333875",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "52479822",
+            "Skolenhetsnamn": "Nockebyhovsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "52791537",
+            "Skolenhetsnamn": "Blackebergs gymnasium 52791537",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "52863414",
+            "Skolenhetsnamn": "Vasa Real",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "52942981",
+            "Skolenhetsnamn": "Bromma gymnasium 52942981",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "52965560",
+            "Skolenhetsnamn": "Vasa International School of Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567025696"
+        },
+        {
+            "Skolenhetskod": "53075005",
+            "Skolenhetsnamn": "Skarpnäcks skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "53147557",
+            "Skolenhetsnamn": "Stefanskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020094994"
+        },
+        {
+            "Skolenhetskod": "53175499",
+            "Skolenhetsnamn": "Tyska skolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020056530"
+        },
+        {
+            "Skolenhetskod": "53398338",
+            "Skolenhetsnamn": "Thea Privata Grundskola Södermalm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565697082"
+        },
+        {
+            "Skolenhetskod": "53760158",
+            "Skolenhetsnamn": "Kristofferskolan, gy",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020018720"
+        },
+        {
+            "Skolenhetskod": "53903798",
+            "Skolenhetsnamn": "Didaktus Liljeholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564732856"
+        },
+        {
+            "Skolenhetskod": "54040574",
+            "Skolenhetsnamn": "Anna Whitlocks gymnasium 54040574",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "54117171",
+            "Skolenhetsnamn": "Bromma gymnasium 54117171",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "54730646",
+            "Skolenhetsnamn": "Midsommarkransens grundskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "54847211",
+            "Skolenhetsnamn": "Entréskolan Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568148117"
+        },
+        {
+            "Skolenhetskod": "55382103",
+            "Skolenhetsnamn": "Björngårdsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "55489248",
+            "Skolenhetsnamn": "Kunskapsborgen komvux, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024627443"
+        },
+        {
+            "Skolenhetskod": "55628203",
+            "Skolenhetsnamn": "ESS-gymnasiet 1, grundskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "56501561",
+            "Skolenhetsnamn": "Essingeskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "56653353",
+            "Skolenhetsnamn": "Internationella Hotell- och Restaurangskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566303938"
+        },
+        {
+            "Skolenhetskod": "56660541",
+            "Skolenhetsnamn": "Lernia AB SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "56670842",
+            "Skolenhetsnamn": "Södra Latins gymnasium 56670842",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "56942970",
+            "Skolenhetsnamn": "Magelungens Gymnasium Liljeholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564891447"
+        },
+        {
+            "Skolenhetskod": "56949296",
+            "Skolenhetsnamn": "Blackebergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "57034070",
+            "Skolenhetsnamn": "Magelungens grundskola Södermalm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564891447"
+        },
+        {
+            "Skolenhetskod": "57098489",
+            "Skolenhetsnamn": "Midsommarkransens gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "57143976",
+            "Skolenhetsnamn": "Thorildsplans gymnasium 57143976",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "57184925",
+            "Skolenhetsnamn": "Hökarängsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "57317316",
+            "Skolenhetsnamn": "JENSEN grundskola Långholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566358759"
+        },
+        {
+            "Skolenhetskod": "57329777",
+            "Skolenhetsnamn": "Konradsbergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "57510246",
+            "Skolenhetsnamn": "Snitz Grundskola Odenplan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565042255"
+        },
+        {
+            "Skolenhetskod": "57594898",
+            "Skolenhetsnamn": "Martinskolan gymnasiesärskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020072644"
+        },
+        {
+            "Skolenhetskod": "57770186",
+            "Skolenhetsnamn": "Vuxenutbildning Söderort",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "59026584",
+            "Skolenhetsnamn": "Realgymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565715892"
+        },
+        {
+            "Skolenhetskod": "59249600",
+            "Skolenhetsnamn": "Eriksdalsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "59316720",
+            "Skolenhetsnamn": "Spånga Gymnasium 59316720",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "59359012",
+            "Skolenhetsnamn": "ProCivitas Privata Gymnasium Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566157102"
+        },
+        {
+            "Skolenhetskod": "59409052",
+            "Skolenhetsnamn": "Liljeholmens gymnasium 59409052",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "59468219",
+            "Skolenhetsnamn": "Slättgårdsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "59551033",
+            "Skolenhetsnamn": "Förskola Skola Via Emilia",
+            "Kommunkod": "0180",
+            "PeOrgNr": "7696074421"
+        },
+        {
+            "Skolenhetskod": "59581397",
+            "Skolenhetsnamn": "ESS-gymnasiet 59581397",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "59796774",
+            "Skolenhetsnamn": "Lycée Francais Saint Louis, gy",
+            "Kommunkod": "0180",
+            "PeOrgNr": "9020041852"
+        },
+        {
+            "Skolenhetskod": "59807380",
+            "Skolenhetsnamn": "Kunskapsskolan Globen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "59898194",
+            "Skolenhetsnamn": "JENSEN Gymnasium Internationella",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566358759"
+        },
+        {
+            "Skolenhetskod": "59900714",
+            "Skolenhetsnamn": "Vittra Södermalm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564586716"
+        },
+        {
+            "Skolenhetskod": "60142020",
+            "Skolenhetsnamn": "Gymnasieskolan Metapontum",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566641691"
+        },
+        {
+            "Skolenhetskod": "60308449",
+            "Skolenhetsnamn": "Filosofiska",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568674252"
+        },
+        {
+            "Skolenhetskod": "60382920",
+            "Skolenhetsnamn": "Rågsveds grundskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "61185500",
+            "Skolenhetsnamn": "Grillska Gymnasiet Liljeholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020170794"
+        },
+        {
+            "Skolenhetskod": "61596416",
+            "Skolenhetsnamn": "Kista Montessori",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560354309"
+        },
+        {
+            "Skolenhetskod": "61686233",
+            "Skolenhetsnamn": "Rålambshovsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "61980418",
+            "Skolenhetsnamn": "I Ur och Skur Mullekojan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "7696002984"
+        },
+        {
+            "Skolenhetskod": "62503435",
+            "Skolenhetsnamn": "JENSEN Education AB/Komvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "62530680",
+            "Skolenhetsnamn": "Magelungens Gymnasium Gotlandsgatan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564891447"
+        },
+        {
+            "Skolenhetskod": "62533129",
+            "Skolenhetsnamn": "Bobergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "62544265",
+            "Skolenhetsnamn": "Fria Maria Barnskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "7696057079"
+        },
+        {
+            "Skolenhetskod": "62702916",
+            "Skolenhetsnamn": "Mindful AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566295530"
+        },
+        {
+            "Skolenhetskod": "63112121",
+            "Skolenhetsnamn": "Jazira Home of Care AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568685555"
+        },
+        {
+            "Skolenhetskod": "63321041",
+            "Skolenhetsnamn": "Kungliga Svenska Balettskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "63329692",
+            "Skolenhetsnamn": "Sörgårdsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "63943560",
+            "Skolenhetsnamn": "Odengymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5563836757"
+        },
+        {
+            "Skolenhetskod": "63954028",
+            "Skolenhetsnamn": "Kunskapsskolan Fruängen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "64065082",
+            "Skolenhetsnamn": "Fredrikshovs slotts skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020178060"
+        },
+        {
+            "Skolenhetskod": "64167206",
+            "Skolenhetsnamn": "Hammarbyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "64388538",
+            "Skolenhetsnamn": "Viktor Rydberg gy. Jarlaplan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8120005650"
+        },
+        {
+            "Skolenhetskod": "64722586",
+            "Skolenhetsnamn": "Kulturama grundskola Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020060524"
+        },
+        {
+            "Skolenhetskod": "64732323",
+            "Skolenhetsnamn": "The Tanto International School",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566018205"
+        },
+        {
+            "Skolenhetskod": "64736967",
+            "Skolenhetsnamn": "Västbergaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565977609"
+        },
+        {
+            "Skolenhetskod": "64841247",
+            "Skolenhetsnamn": "Ekensbergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "64892744",
+            "Skolenhetsnamn": "Sthlm hotell & restaurangsk 64892744, sär",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "65458415",
+            "Skolenhetsnamn": "Skolslussen 65458415",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "65487837",
+            "Skolenhetsnamn": "Futuraskolan International Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566095047"
+        },
+        {
+            "Skolenhetskod": "65606427",
+            "Skolenhetsnamn": "Style Education Stockholm AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568023393"
+        },
+        {
+            "Skolenhetskod": "65666808",
+            "Skolenhetsnamn": "S:t Eriks gymnasium 65666808",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "66064701",
+            "Skolenhetsnamn": "Lindeparkens gymnasiesärskola 66064701",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "66265644",
+            "Skolenhetsnamn": "Erlaskolan Stockholm Norra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565715892"
+        },
+        {
+            "Skolenhetskod": "66283082",
+            "Skolenhetsnamn": "Hammarbyskolan Norra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "66455663",
+            "Skolenhetsnamn": "Novia Engelska skolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568125040"
+        },
+        {
+            "Skolenhetskod": "66851849",
+            "Skolenhetsnamn": "Olovslundsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "66906959",
+            "Skolenhetsnamn": "Ro integrerade särskoleelever",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "67264903",
+            "Skolenhetsnamn": "Komvux/Lärvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "67662754",
+            "Skolenhetsnamn": "Vittra Telefonplan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564586716"
+        },
+        {
+            "Skolenhetskod": "67731691",
+            "Skolenhetsnamn": "Lunaskolan Södra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564715729"
+        },
+        {
+            "Skolenhetskod": "68235921",
+            "Skolenhetsnamn": "S:t Eriks gymnasium 1",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "68431512",
+            "Skolenhetsnamn": "SFI-Västerort/vux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "68602166",
+            "Skolenhetsnamn": "Hammarbyskolan Södra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "68812584",
+            "Skolenhetsnamn": "Askebyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "68893390",
+            "Skolenhetsnamn": "Ulvsundaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "68939834",
+            "Skolenhetsnamn": "Hillelskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020058411"
+        },
+        {
+            "Skolenhetskod": "69004747",
+            "Skolenhetsnamn": "Fryshuset Grundskola Västra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020111582"
+        },
+        {
+            "Skolenhetskod": "69053034",
+            "Skolenhetsnamn": "Kungsholmens västra gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "69266159",
+            "Skolenhetsnamn": "Hjulsta grundskola F-9",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "69543519",
+            "Skolenhetsnamn": "S:t Eriks gymnasium 69543519",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "69650864",
+            "Skolenhetsnamn": "Enskilda gymnasiet, gy",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020126531"
+        },
+        {
+            "Skolenhetskod": "69895255",
+            "Skolenhetsnamn": "Mariaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "70004572",
+            "Skolenhetsnamn": "Häggviks Gymnasium Södra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564715729"
+        },
+        {
+            "Skolenhetskod": "70089804",
+            "Skolenhetsnamn": "Loviselundsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "70221298",
+            "Skolenhetsnamn": "Niketo AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569006793"
+        },
+        {
+            "Skolenhetskod": "70299797",
+            "Skolenhetsnamn": "Alma Folkhögskoleförening",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8152007533"
+        },
+        {
+            "Skolenhetskod": "70329261",
+            "Skolenhetsnamn": "Hägerstensåsens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "70398560",
+            "Skolenhetsnamn": "Kämpetorpsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "70404319",
+            "Skolenhetsnamn": "Dansgymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568920218"
+        },
+        {
+            "Skolenhetskod": "70592143",
+            "Skolenhetsnamn": "Sjöviksskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "70811222",
+            "Skolenhetsnamn": "Hermods Distansgymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560440017"
+        },
+        {
+            "Skolenhetskod": "71055546",
+            "Skolenhetsnamn": "Birkagårdens folkhögskola SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020057900"
+        },
+        {
+            "Skolenhetskod": "71363923",
+            "Skolenhetsnamn": "Djurgårdsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020175769"
+        },
+        {
+            "Skolenhetskod": "71377289",
+            "Skolenhetsnamn": "Kista Enskilda Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565680112"
+        },
+        {
+            "Skolenhetskod": "71466415",
+            "Skolenhetsnamn": "Vuxenutbildningscentrum Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "71519534",
+            "Skolenhetsnamn": "Stockholms transport- och fordonstekniska gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "71669600",
+            "Skolenhetsnamn": "Vittra Luma Park",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564586716"
+        },
+        {
+            "Skolenhetskod": "71754599",
+            "Skolenhetsnamn": "Gustav Vasa skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "72009890",
+            "Skolenhetsnamn": "Lilla Adolf Fredriks skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "72066571",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Skärholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "72248694",
+            "Skolenhetsnamn": "Enskede skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "72345466",
+            "Skolenhetsnamn": "Kvarnbyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "72509254",
+            "Skolenhetsnamn": "Lunaskolan Bromma",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564715729"
+        },
+        {
+            "Skolenhetskod": "72580944",
+            "Skolenhetsnamn": "JENSEN Gymnasium Östra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566358759"
+        },
+        {
+            "Skolenhetskod": "72624886",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Liljeholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "72627865",
+            "Skolenhetsnamn": "Alviksskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "72672270",
+            "Skolenhetsnamn": "Aspuddens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "72684556",
+            "Skolenhetsnamn": "Framstegsskolan i Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020161926"
+        },
+        {
+            "Skolenhetskod": "73294718",
+            "Skolenhetsnamn": "Kista folkhögskola SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024456702"
+        },
+        {
+            "Skolenhetskod": "73812226",
+            "Skolenhetsnamn": "KLARA Teoretiska Gymnasium Stockholm Västra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565583282"
+        },
+        {
+            "Skolenhetskod": "73893187",
+            "Skolenhetsnamn": "Maria Elementarskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020060458"
+        },
+        {
+            "Skolenhetskod": "74248530",
+            "Skolenhetsnamn": "Iris Hadar AB komvux, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5563960789"
+        },
+        {
+            "Skolenhetskod": "74396596",
+            "Skolenhetsnamn": "Kvarnbackaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "74482611",
+            "Skolenhetsnamn": "Internationella Engelska skolan Hässelby",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "74610163",
+            "Skolenhetsnamn": "Min skola Östermalm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564559523"
+        },
+        {
+            "Skolenhetskod": "74631147",
+            "Skolenhetsnamn": "Enskedefältets skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "74723082",
+            "Skolenhetsnamn": "Gullingeskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "74786270",
+            "Skolenhetsnamn": "Ess-Gymnasiesärskolan 74786270",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "74812809",
+            "Skolenhetsnamn": "Kungsh gy/Sthlms Musikgy 74812809",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "74919233",
+            "Skolenhetsnamn": "YFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "74920766",
+            "Skolenhetsnamn": "Mariehällsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "75075402",
+            "Skolenhetsnamn": "Kungstensgymnasiet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020064096"
+        },
+        {
+            "Skolenhetskod": "75112726",
+            "Skolenhetsnamn": "Academedia Eductus SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "75255864",
+            "Skolenhetsnamn": "Pilgrimsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565233797"
+        },
+        {
+            "Skolenhetskod": "75513794",
+            "Skolenhetsnamn": "Östra Reals gymnasium 75513794",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "75600007",
+            "Skolenhetsnamn": "Midsommarkransens gy 75600007",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "75614609",
+            "Skolenhetsnamn": "Södermalmsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "75656508",
+            "Skolenhetsnamn": "Vasastans Montessoriskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020120971"
+        },
+        {
+            "Skolenhetskod": "76054399",
+            "Skolenhetsnamn": "Globala gymnasiet 76054399",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "76324672",
+            "Skolenhetsnamn": "Drakenskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565833562"
+        },
+        {
+            "Skolenhetskod": "76405602",
+            "Skolenhetsnamn": "Akadeva AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567256259"
+        },
+        {
+            "Skolenhetskod": "76663945",
+            "Skolenhetsnamn": "Sjölins Gymnasium Hammarby Sjöstad",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5563758399"
+        },
+        {
+            "Skolenhetskod": "76708131",
+            "Skolenhetsnamn": "Ess-gymnasiet 76708131",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "76952966",
+            "Skolenhetsnamn": "Skanskvarnsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "77176811",
+            "Skolenhetsnamn": "Bernadottegymnasiet 77176811",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "77314942",
+            "Skolenhetsnamn": "Norra Ängby skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "77364720",
+            "Skolenhetsnamn": "ABF Stockholms gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020057405"
+        },
+        {
+            "Skolenhetskod": "77632411",
+            "Skolenhetsnamn": "Internationella Engelska Gymnasiet Södermalm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "77656740",
+            "Skolenhetsnamn": "Rosholmen Education Academy AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565536678"
+        },
+        {
+            "Skolenhetskod": "77783166",
+            "Skolenhetsnamn": "Way to Work Education i Sverige AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5591265219"
+        },
+        {
+            "Skolenhetskod": "78263108",
+            "Skolenhetsnamn": "Central Insamlingsenhet Enskild verksamhet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "78381627",
+            "Skolenhetsnamn": "Farsta gymnasium 78381627",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "78422467",
+            "Skolenhetsnamn": "Kulturama gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020060524"
+        },
+        {
+            "Skolenhetskod": "78433202",
+            "Skolenhetsnamn": "Stockholm Science & Innovation School 78433202, SSIS",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "78508835",
+            "Skolenhetsnamn": "Sverigefinska skolan Sthlm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564823937"
+        },
+        {
+            "Skolenhetskod": "78892266",
+            "Skolenhetsnamn": "Folkuniversitetet SFI & Komvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020064096"
+        },
+        {
+            "Skolenhetskod": "78971633",
+            "Skolenhetsnamn": "Gnosiaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568854441"
+        },
+        {
+            "Skolenhetskod": "79085201",
+            "Skolenhetsnamn": "Alternativ sfi ",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "79829846",
+            "Skolenhetsnamn": "REFIS Rörentr. friskola Sthlm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566285994"
+        },
+        {
+            "Skolenhetskod": "79969356",
+            "Skolenhetsnamn": "Europaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567025696"
+        },
+        {
+            "Skolenhetskod": "80211474",
+            "Skolenhetsnamn": "Designgymnasiet Kungsholmen old",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569320681"
+        },
+        {
+            "Skolenhetskod": "80357110",
+            "Skolenhetsnamn": "Stockholms Tillskärarakademis Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565684965"
+        },
+        {
+            "Skolenhetskod": "80612612",
+            "Skolenhetsnamn": "Kristinebergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "81266343",
+            "Skolenhetsnamn": "Kunskapsskolan Tyresö",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "81396509",
+            "Skolenhetsnamn": "Banérportsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566064001"
+        },
+        {
+            "Skolenhetskod": "81693640",
+            "Skolenhetsnamn": "Geobes Sthlm AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568956824"
+        },
+        {
+            "Skolenhetskod": "81862260",
+            "Skolenhetsnamn": "Svedenskolan Mälarhöjden 7-9",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564715729"
+        },
+        {
+            "Skolenhetskod": "82075850",
+            "Skolenhetsnamn": "Skarpatorpsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "82110758",
+            "Skolenhetsnamn": "Hagsätraskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "82140090",
+            "Skolenhetsnamn": "Blommensbergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "82408375",
+            "Skolenhetsnamn": "Kista Montessoriskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560354309"
+        },
+        {
+            "Skolenhetskod": "82448624",
+            "Skolenhetsnamn": "Tasava skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565586871"
+        },
+        {
+            "Skolenhetskod": "82659918",
+            "Skolenhetsnamn": "Svea Education AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5591198220"
+        },
+        {
+            "Skolenhetskod": "82838118",
+            "Skolenhetsnamn": "Alla Nationers Fria Skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024093869"
+        },
+        {
+            "Skolenhetskod": "82850292",
+            "Skolenhetsnamn": "Vinstagårdsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "82854505",
+            "Skolenhetsnamn": "Martinskolan Söders waldorfsk",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020072644"
+        },
+        {
+            "Skolenhetskod": "82964090",
+            "Skolenhetsnamn": "Norra Real 82964090",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "82982309",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Kista",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "83374651",
+            "Skolenhetsnamn": "Lilla Akademiens Musikgymn.",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565510756"
+        },
+        {
+            "Skolenhetskod": "83584296",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Älvsjö",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "83810698",
+            "Skolenhetsnamn": "Elinsborgsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "83828066",
+            "Skolenhetsnamn": "Nya Elementar",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "84286715",
+            "Skolenhetsnamn": "ESS-gymnasiet 84286715",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "85054102",
+            "Skolenhetsnamn": "Sthlm Transport- och fordonstekniska gymnasiet 85054102",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "85152591",
+            "Skolenhetsnamn": "Blackebergs gymnasium 85152591",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "85200474",
+            "Skolenhetsnamn": "Magelungens Grundskola Långbropark",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564891447"
+        },
+        {
+            "Skolenhetskod": "85516596",
+            "Skolenhetsnamn": "Drottning Blankas Gymnasieskola Stockholm Kungsholmen",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565789129"
+        },
+        {
+            "Skolenhetskod": "85634095",
+            "Skolenhetsnamn": "Nytorpsskolan/Österholm sär",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "85647996",
+            "Skolenhetsnamn": "Grillska Gymnasiesärskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020170794"
+        },
+        {
+            "Skolenhetskod": "85670099",
+            "Skolenhetsnamn": "Stift. Sthlm Intern. School gr",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024264775"
+        },
+        {
+            "Skolenhetskod": "85782695",
+            "Skolenhetsnamn": "Distra Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566064209"
+        },
+        {
+            "Skolenhetskod": "85819857",
+            "Skolenhetsnamn": "Blackebergs gymnasium 85819857",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "86086213",
+            "Skolenhetsnamn": "Sofiaängens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565980942"
+        },
+        {
+            "Skolenhetskod": "86337537",
+            "Skolenhetsnamn": "Maltesholmsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "86597125",
+            "Skolenhetsnamn": "Hässelby Villastads skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "86715303",
+            "Skolenhetsnamn": "Hällsboskolan Mälarhöjden",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2021005745"
+        },
+        {
+            "Skolenhetskod": "86758230",
+            "Skolenhetsnamn": "Viktor Rydbergs skola Vasastan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8120005650"
+        },
+        {
+            "Skolenhetskod": "87274273",
+            "Skolenhetsnamn": "Sthlm Transport- och fordonstekniska gymnasiet 87274273",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "87377212",
+            "Skolenhetsnamn": "JENSEN grundskola Vasastan Sthlm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566358759"
+        },
+        {
+            "Skolenhetskod": "87521048",
+            "Skolenhetsnamn": "Engelbrektsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "87719096",
+            "Skolenhetsnamn": "Ålstensskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "87838841",
+            "Skolenhetsnamn": "Hässelbygårdsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "87844327",
+            "Skolenhetsnamn": "Sjölins Gymnasium Vasastan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5563758399"
+        },
+        {
+            "Skolenhetskod": "87920455",
+            "Skolenhetsnamn": "Skönstaholmsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "87927983",
+            "Skolenhetsnamn": "SweJa Kunskapscenter AB SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565253944"
+        },
+        {
+            "Skolenhetskod": "87999453",
+            "Skolenhetsnamn": "Thea Privata Grundskola Bromma",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565697082"
+        },
+        {
+            "Skolenhetskod": "88195519",
+            "Skolenhetsnamn": "Kvickenstorpsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "88297525",
+            "Skolenhetsnamn": "Lumiaskolan Stockholm 2",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5590247374"
+        },
+        {
+            "Skolenhetskod": "88734324",
+            "Skolenhetsnamn": "Grillska Komvux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020170794"
+        },
+        {
+            "Skolenhetskod": "88795871",
+            "Skolenhetsnamn": "Södra Ängby skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "88839172",
+            "Skolenhetsnamn": "Kungsh gy/Sthlms Musikgy 88839172",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "88955893",
+            "Skolenhetsnamn": "Norra Real 88955893",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "88998356",
+            "Skolenhetsnamn": "Alma folkhögskola SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8152007533"
+        },
+        {
+            "Skolenhetskod": "89370947",
+            "Skolenhetsnamn": "Södra Latins gymnasium 89370947",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "89461767",
+            "Skolenhetsnamn": "KLARA Teoretiska Gymnasium Stockholm Norra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566303938"
+        },
+        {
+            "Skolenhetskod": "89605548",
+            "Skolenhetsnamn": "Trollbodaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "89693952",
+            "Skolenhetsnamn": "Stift. Sthlm Intern. School gy",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024264775"
+        },
+        {
+            "Skolenhetskod": "89963319",
+            "Skolenhetsnamn": "RGRH Stockholm, Riksgymnasium  för rörelsehindrade elever 89963319",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "89983665",
+            "Skolenhetsnamn": "Stadsmissionens folkhögskola/SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020170794"
+        },
+        {
+            "Skolenhetskod": "90201819",
+            "Skolenhetsnamn": "JENSEN Education School",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565606208"
+        },
+        {
+            "Skolenhetskod": "90402817",
+            "Skolenhetsnamn": "Erlaskolan Stockholm Södra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565715892"
+        },
+        {
+            "Skolenhetskod": "90561266",
+            "Skolenhetsnamn": "Hedvig Eleonora skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "90711097",
+            "Skolenhetsnamn": "Al-Azharskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8024044888"
+        },
+        {
+            "Skolenhetskod": "90732940",
+            "Skolenhetsnamn": "Internationella Engelska Skolan Bromma",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564624368"
+        },
+        {
+            "Skolenhetskod": "90850620",
+            "Skolenhetsnamn": "Grundskolan Metapontum",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566641691"
+        },
+        {
+            "Skolenhetskod": "91352227",
+            "Skolenhetsnamn": "Studemaskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020096403"
+        },
+        {
+            "Skolenhetskod": "91478173",
+            "Skolenhetsnamn": "Skärholmens gymnasium 91478173",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "91624436",
+            "Skolenhetsnamn": "Competens i Götaland AB, SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "91792285",
+            "Skolenhetsnamn": "Spånga Gymnasium 91792285, sär",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "91816093",
+            "Skolenhetsnamn": "Sturebyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "92007673",
+            "Skolenhetsnamn": "Västertorpsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "92127007",
+            "Skolenhetsnamn": "Norrbyskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567240659"
+        },
+        {
+            "Skolenhetskod": "92204274",
+            "Skolenhetsnamn": "NTI Gymnasiet Gärdet",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565970471"
+        },
+        {
+            "Skolenhetskod": "92347699",
+            "Skolenhetsnamn": "Bromstensskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "92416778",
+            "Skolenhetsnamn": "Hjorthagens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "92428094",
+            "Skolenhetsnamn": "Vittra Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564586716"
+        },
+        {
+            "Skolenhetskod": "92462819",
+            "Skolenhetsnamn": "Lumiaskolan Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5590247374"
+        },
+        {
+            "Skolenhetskod": "92689250",
+            "Skolenhetsnamn": "Lögarebergets Montessoriskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5560354309"
+        },
+        {
+            "Skolenhetskod": "92750123",
+            "Skolenhetsnamn": "Enskilda gymnasiet, gr",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020126531"
+        },
+        {
+            "Skolenhetskod": "92823999",
+            "Skolenhetsnamn": "Improviva Group AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5569342743"
+        },
+        {
+            "Skolenhetskod": "92847964",
+            "Skolenhetsnamn": "Scengymnasiet S:t Erik 92847964",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "93301103",
+            "Skolenhetsnamn": "Aspdammskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565838066"
+        },
+        {
+            "Skolenhetskod": "93367005",
+            "Skolenhetsnamn": "Thorildsplans gymnasium 93367005",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "93412255",
+            "Skolenhetsnamn": "Gubbängsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "93933142",
+            "Skolenhetsnamn": "Årsta Gårds gymnasiesärskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020177427"
+        },
+        {
+            "Skolenhetskod": "94061874",
+            "Skolenhetsnamn": "Ess-Gymnasiesärskolan 94061874",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "94167577",
+            "Skolenhetsnamn": "Cybergymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565547964"
+        },
+        {
+            "Skolenhetskod": "94498092",
+            "Skolenhetsnamn": "Sthlms intensivsv f akadem SFI",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "94677983",
+            "Skolenhetsnamn": "Tullgårdsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "94717858",
+            "Skolenhetsnamn": "KLARA Teoretiska Gymnasium Stockholm Södra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566303938"
+        },
+        {
+            "Skolenhetskod": "94864296",
+            "Skolenhetsnamn": "Åsö grundskola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "94943347",
+            "Skolenhetsnamn": "S:t Eriks Katolska Skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8572015595"
+        },
+        {
+            "Skolenhetskod": "95154882",
+            "Skolenhetsnamn": "Snitz Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565042255"
+        },
+        {
+            "Skolenhetskod": "95618280",
+            "Skolenhetsnamn": "Kungsholmens Västra Gymnasium 95618280",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "95946223",
+            "Skolenhetsnamn": "Kung Saga Gymnasium",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5568434095"
+        },
+        {
+            "Skolenhetskod": "96946829",
+            "Skolenhetsnamn": "Bulten Fritids",
+            "Kommunkod": "0180",
+            "PeOrgNr": "7164056876"
+        },
+        {
+            "Skolenhetskod": "96984023",
+            "Skolenhetsnamn": "Östermalmsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "97400863",
+            "Skolenhetsnamn": "Vinsta grundskola västra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "97510495",
+            "Skolenhetsnamn": "JENSEN Gymnasium Södra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566358759"
+        },
+        {
+            "Skolenhetskod": "97683561",
+            "Skolenhetsnamn": "Johan Skytteskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "97686250",
+            "Skolenhetsnamn": "Rödabergsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "97770837",
+            "Skolenhetsnamn": "Drottning Blankas Gymnasieskola Stockholm Södra",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565668794"
+        },
+        {
+            "Skolenhetskod": "97966458",
+            "Skolenhetsnamn": "Ormkärrsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "98050130",
+            "Skolenhetsnamn": "SFI Söderort/vux",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "98070480",
+            "Skolenhetsnamn": "Hägerstenshamnens skola",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "98072502",
+            "Skolenhetsnamn": "Competens Utbildning Sverige ",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565039871"
+        },
+        {
+            "Skolenhetskod": "98098631",
+            "Skolenhetsnamn": "Kunskapsskolan Kista",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565661815"
+        },
+        {
+            "Skolenhetskod": "98705470",
+            "Skolenhetsnamn": "Sv Interkulturella grundskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5565929360"
+        },
+        {
+            "Skolenhetskod": "98741257",
+            "Skolenhetsnamn": "Lilla Djurgårdsakademien",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5567874879"
+        },
+        {
+            "Skolenhetskod": "98760751",
+            "Skolenhetsnamn": "Kristofferskolan, gr",
+            "Kommunkod": "0180",
+            "PeOrgNr": "8020018720"
+        },
+        {
+            "Skolenhetskod": "98815582",
+            "Skolenhetsnamn": "Djurgymnasiet Stockholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5566205455"
+        },
+        {
+            "Skolenhetskod": "98857367",
+            "Skolenhetsnamn": "SALUT",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "98988684",
+            "Skolenhetsnamn": "Nytorpsskolan/Österholm",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "99022046",
+            "Skolenhetsnamn": "Sköndalsskolan",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "99025755",
+            "Skolenhetsnamn": "MedLearn AB",
+            "Kommunkod": "0180",
+            "PeOrgNr": "5564686821"
+        },
+        {
+            "Skolenhetskod": "99648792",
+            "Skolenhetsnamn": "Adolf Fredriks musikklasser",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        },
+        {
+            "Skolenhetskod": "99755443",
+            "Skolenhetsnamn": "Östra Reals gymnasium 99755443",
+            "Kommunkod": "0180",
+            "PeOrgNr": "2120000142"
+        }
+    ]
+}
