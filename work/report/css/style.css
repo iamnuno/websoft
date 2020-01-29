@@ -167,7 +167,6 @@ th, td {
   align-content: center;
   justify-content: center;
   padding: 10px;
-  background-color: black;
   text-align: center;
 }
 
@@ -179,8 +178,6 @@ th, td {
 
 .flag {
   padding: 10px;
-  background-color: white;
-  border: 1px solid green;
   display: flex;
   flex-direction: column;
   align-content: center;
@@ -189,6 +186,8 @@ th, td {
 
 .flag a {
   padding: 15px;
+  text-decoration: none;
+  color: black;
 }
 
 .france_1 {
