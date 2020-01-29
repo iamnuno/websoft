@@ -5,7 +5,8 @@
   'use strict';
 
   duck();
-  
+  flags();
+
 }());
 
 function duck() {
@@ -42,10 +43,6 @@ function get_xPosition(element) {
   return rect.left + window.scrollX;
 }
 
-function schools() {
-
-}
-
 function buttonOnClick() {
   console.log("Button clicked.");
   fetch('data/1290.json')
@@ -59,5 +56,39 @@ function buttonOnClick() {
       table += "<tr><td>" + schools[i].Kommunkod + "</td><td>" + schools[i].PeOrgNr + "</td><td>" + schools[i].Skolenhetskod + "</td><td>" + schools[i].Skolenhetsnamn + '</td></tr>';
     }
     document.getElementById('table').innerHTML = table;
+  });
+}
+
+function flags() {
+  console.log("Flags started...");
+
+  var france_link = document.getElementById("france_link");
+  var italy = document.getElementById("italy_link");
+  var belgium = document.getElementById("belgium_link");
+
+  var france_flag = document.getElementById("france_flag");
+  var italy_flag = document.getElementById("italy_flag");
+  var belgium_flag = document.getElementById("belgium_flag");
+
+  //show the flag when clicking the link
+  france_link.addEventListener("click", function () {
+    france_flag.style.opacity = "1";
+  });
+  italy.addEventListener("click", function () {
+    italy_flag.style.opacity = "1";
+  });
+  belgium.addEventListener("click", function () {
+    belgium_flag.style.opacity = "1";
+  });
+
+  //hide the flag when clicking the flag
+  france_flag.addEventListener("click", function () {
+    france_flag.style.opacity = "0";
+  });
+  italy_flag.addEventListener("click", function () {
+    italy_flag.style.opacity = "0";
+  });
+  belgium_flag.addEventListener("click", function () {
+    belgium_flag.style.opacity = "0";
   });
 }

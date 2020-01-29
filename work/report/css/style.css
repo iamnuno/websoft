@@ -160,3 +160,87 @@ th, td {
 .button:hover {
 	background-color: #58b09c;
 }
+
+.flags_wrapper {
+  flex: 1 0 auto;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: black;
+  text-align: center;
+}
+
+.colors_wrapper {
+  display: inline-flex;
+  opacity: 0;
+  transition: opacity 1s linear 0s;
+}
+
+.flag {
+  padding: 10px;
+  background-color: white;
+  border: 1px solid green;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-shrink: 0;
+}
+
+.flag a {
+  padding: 15px;
+}
+
+.france_1 {
+  width: 50px;
+  height: 120px;
+  background-color: blue;
+}
+
+.france_2 {
+  width: 50px;
+  height: 120px;
+  background-color: white;
+}
+
+.france_3 {
+  width: 50px;
+  height: 120px;
+  background-color: red;
+}
+
+.italy_1 {
+  width: 50px;
+  height: 120px;
+  background-color: green;
+}
+
+.italy_2 {
+  width: 50px;
+  height: 120px;
+  background-color: white;
+}
+
+.italy_3 {
+  width: 50px;
+  height: 120px;
+  background-color: red;
+}
+
+.belgium_1 {
+  width: 50px;
+  height: 120px;
+  background-color: black;
+}
+
+.belgium_2 {
+  width: 50px;
+  height: 120px;
+  background-color: yellow;
+}
+
+.belgium_3 {
+  width: 50px;
+  height: 120px;
+  background-color: red;
+}
