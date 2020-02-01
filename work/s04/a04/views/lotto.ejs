@@ -1,0 +1,36 @@
+<html>
+<head>
+  <link href= "css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <h1 class="lotto_header">Welcome to Lotto!!</h1>
+
+  <table class="table">
+    <tr>
+      <th>Draw</th>
+
+      <% for (var i = 0; i < draw.length; i++) { %>
+
+        <td><%= draw[i] %></td>
+
+        <% } %>
+      </tr>
+
+      <tr>
+        <th>You</th>
+
+        <% for (var i = 0; i < numbers.length; i++) { %>
+
+          <td><%= numbers[i] %></td>
+
+          <% } %>
+        </tr>
+
+        <tr>
+          <th>Total matches</th>
+          <td><%= matches %></td>
+        </tr>
+
+      </table>
+    </body>
+    </html>

@@ -1,0 +1,18 @@
+{
+    "Uttagsdatum": "2020-01-29T10:45:33.38706+01:00",
+    "Fotnot": "",
+    "Kommuner": [
+        {
+            "Kommunkod": "1290",
+            "Namn": "Kristianstad"
+        },
+        {
+            "Kommunkod": "1280",
+            "Namn": "Malmö"
+        },
+        {
+            "Kommunkod": "0180",
+            "Namn": "Stockholm"
+        }
+    ]
+}
