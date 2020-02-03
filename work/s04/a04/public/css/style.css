@@ -249,3 +249,14 @@ th, td {
   padding: 10px;
   text-align: center;
 }
+
+.lotto_wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.lotto_text {
+  text-align: center;
+}

@@ -13,11 +13,11 @@ router.get("/", (req, res) => {
 
     data.draw  = new Lotto().draw();
     if (req.query.row != null) {
-      data.numbers  = convertToArrayInt(req.query.row);
-      data.matches = compare(data.draw, data.numbers);
+      data.player  = convertToArrayInt(req.query.row);
+      data.matches = compare(data.draw, data.player);
     } else {
-      data.numbers = ['','','','','','',''];
-      data.matches = '';
+      data.player = [];
+      data.matches = 0;
     }
 
     res.render("lotto", data);
