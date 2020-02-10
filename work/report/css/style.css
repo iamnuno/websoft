@@ -243,3 +243,10 @@ th, td {
   height: 120px;
   background-color: red;
 }
+
+p.comparison {
+  text-align: center;
+}
+.comparison_img {
+  width: 70%;
+}
