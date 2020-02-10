@@ -24,6 +24,7 @@ if ($input) {
 
 	<?php include "view/header.php";?>
 
+	<?php include "view/links.php";?>
 
 	<div class="search">
 		<h1>Search database</h1>

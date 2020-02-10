@@ -19,6 +19,7 @@ $res = $db->read();
 
 	<?php include "view/header.php";?>
 
+	<?php include "view/links.php";?>
 
 	<div class="result">
 		<h1>Read table</h1>

@@ -27,6 +27,7 @@ if ($id && $label && $type) {
 
 	<?php include "view/header.php";?>
 
+	<?php include "view/links.php";?>
 
 	<div class="search">
 		<h1>Update row</h1>

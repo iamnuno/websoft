@@ -26,6 +26,7 @@ if ($label && $type) {
 
 	<?php include "view/header.php";?>
 
+	<?php include "view/links.php";?>
 
 	<div class="search">
 		<h1>Create row</h1>
