@@ -8,8 +8,8 @@ namespace console
 {
     class Program
     {
-
         private AccountHelper accountHelper;
+        
         static void Main(string[] args)
         {
             Program myApp = new Program();
@@ -111,7 +111,7 @@ namespace console
             accountHelper.ProcessTransfer(amount);
         }
 
-        void AddAccountOption() 
+        void AddAccountOption()
         {
             Console.Write("\nEnter number > ");
             string number = Console.ReadLine().Trim();
