@@ -9,7 +9,7 @@ namespace console
     class Program
     {
         private AccountHelper accountHelper;
-        
+
         static void Main(string[] args)
         {
             Program myApp = new Program();
@@ -105,10 +105,22 @@ namespace console
             string destination = Console.ReadLine().Trim();
             accountHelper.FindAccount(destination);
 
-            Console.Write("Enter amount > ");
-            int amount = int.Parse(Console.ReadLine().Trim()); // Add validation............
-
-            accountHelper.ProcessTransfer(amount);
+            int amount = -1;
+            bool isAmountValid = false;
+            while (!isAmountValid)
+            {
+                try
+                {
+                    Console.Write("Enter amount > ");
+                    amount = int.Parse(Console.ReadLine().Trim());
+                    accountHelper.ProcessTransfer(amount);
+                    isAmountValid = true;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("\nIncorrect format (must be an integer).\n");
+                }
+            }
         }
 
         void AddAccountOption()
@@ -116,8 +128,21 @@ namespace console
             Console.Write("\nEnter number > ");
             string number = Console.ReadLine().Trim();
 
-            Console.Write("Enter balance > ");
-            int balance = int.Parse(Console.ReadLine().Trim()); // Add validation............
+            int balance = -1;
+            bool isBalanceValid = false;
+            while (!isBalanceValid)
+            {
+                try
+                {
+                    Console.Write("Enter balance > ");
+                    balance = int.Parse(Console.ReadLine().Trim());
+                    isBalanceValid = true;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("\nIncorrect format (must be an integer).\n");
+                }
+            }
 
             Console.Write("Enter label > ");
             string label = Console.ReadLine().Trim();
