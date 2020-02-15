@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "API";
+}
+
+<div class="container">
+    <h1>@ViewData["Title"] Help Page</h1><br>
+    <p>Below you can find the available routes and their description.</p>
+
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th>API</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="../api/accounts">GET api/accounts</a></td>
+                <td>Returns JSON response with all accounts.</td>
+            </tr>
+            <tr>
+                <td><a href="../api/accounts/{number}">GET api/accounts/{number}</a></td>
+                <td>Returns JSON response with the matching account number.</td>
+            </tr>
+            <tr>
+                <td><a href="../api/transfer/{sourceNumber}/{destinationNumber}/{amount}">PUT api/transfer/{sourceNumber}/{destinationNumber}/{amount}</a></td>
+                <td>Transfers amount from source to destination account (use Postman). Returns JSON error if transaction is not completed.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
