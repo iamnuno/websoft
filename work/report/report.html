@@ -386,7 +386,17 @@
 
       <section>
         <h2>S09</h2>
-        <p>Here is the text for this section.</p>
+        <p><em>- Elaborate on a few (3-5) different security issues or concerns, from your own experience, related to web application security and relate them to the OWASP top ten.</em><br />
+          One usual security concern is related to database security, controlling which users have access to which databases, tables, what privileges and queries are users allowed to run. In web development care needs to be taken and ensure that prepared statements are used when running database queries. In OWASP top 10, this is documented as "injection". Attackers can utilize user input to craft malicious SQL queries and for example delete a table, or get access to information they are not supposed to.<br />
+          Another security concern deals with the fact that software/libraries used might contain bugs or vulnerabilities that can be used by an attacker. In practice it is important to be subscribed to security mailing lists for the technologies or libraries used so that if something is disclosed a patch can be applied or an update might be available to fix the problem. In OWASP top 10, this is documented as "using components with known vulnerabilities". If a vulnerability is known then it is easier for an attacker to run already existing exploits against an website.<br />
+          The final security concern I'd like to mention deals with controlling your domain. Wherenever applicable monitoring tools need to be in place that allows a developer to identify suspicious behaviour and quickly react to it. I have dealt with situations where monitoring tools existed but they were simply ignored. In OWASP top 10, this is documented as 'insufficient logging and monitoring'. An example is logging unsuccessful login attempts with enough information to understand if this is a suspicious action or not.
+        </p>
+        <p><em>- Summarize by providing your own guidelines to a new web programmer on the topic “The essential guidelines to follow to create secure web applications”.</em><br />
+          I would certainly point a new web programer to a website such as OWASP. There one can read and understand what sort of details need to taken in consideration to keep a website secure. There are many different techniques that an attcker can use in order to exploit a website so it is a battle that seems deemed to be lost, but if you are aware of what the top 10 common security problems are, there's a bigger chance to keep your website secure. Also, a new programmer would probably benefit from using frameworks that implement by default a set of security policies, for example React.js is by design protected from XSS attacks. So I would advise to check what security functionalities popular web frameworks offer.
+        </p>
+        <p><em>- What is your TIL for this course section?</em><br />
+          I was aware of OWASP's top 10 list, but I didn't know all of its entries. After this course section I feel I have more awareness reagarding other security details to consider. I also add the videos where proof of concepts for this list were made to my TIL, watching examples of what hackers can do to exploit security issues in OWASPs list was very interesting.
+        </p>
       </section>
 
       <section>
